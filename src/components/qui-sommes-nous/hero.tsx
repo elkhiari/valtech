@@ -5,14 +5,14 @@ import { HiOutlineArrowLongDown } from "react-icons/hi2";
 const isBrowser = () => typeof window !== "undefined";
 
 function Hero() {
-  // const click = () => {
-  //   if (isBrowser()) {
-  //     window.scrollTo({
-  //       top: window.innerHeight,
-  //       behavior: "smooth",
-  //     });
-  //   }
-  // };
+  const click = () => {
+    if (isBrowser()) {
+      window.scrollTo({
+        top: window.innerHeight,
+        behavior: "smooth",
+      });
+    }
+  };
   return (
     <div className="min-h-[100dvh] overflow-y-hidden mb-10 w-full object-cover bg-center bg-no-repeat bg-cover relative flex place-content-center place-items-center flex-col">
       <video

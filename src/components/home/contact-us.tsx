@@ -27,10 +27,7 @@ function Contactus() {
               <div className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <IoMdMailOpen size={20} color="#007bff" />
               </div>
-              <a
-                href="javascript:void(0)"
-                className="text-[#007bff] text-sm ml-3"
-              >
+              <a href=" #" className="text-[#007bff] text-sm ml-3">
                 <small className="block">Mail</small>
                 <strong>info@valtech.ma</strong>
               </a>
@@ -39,10 +36,7 @@ function Contactus() {
               <div className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <FaPhoneAlt size={20} color="#007bff" />
               </div>
-              <a
-                href="javascript:void(0)"
-                className="text-[#007bff] text-sm ml-3"
-              >
+              <a href=" #" className="text-[#007bff] text-sm ml-3">
                 <small className="block">Téléphone</small>
                 <strong>+ 212 (0) 537 66 36 36</strong>
               </a>
@@ -51,10 +45,7 @@ function Contactus() {
               <div className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
                 <FaFax size={20} color="#007bff" />
               </div>
-              <a
-                href="javascript:void(0)"
-                className="text-[#007bff] text-sm ml-3"
-              >
+              <a href=" #" className="text-[#007bff] text-sm ml-3">
                 <small className="block">FAX</small>
                 <strong>+ 212 (0) 537 63 47 63</strong>
               </a>
@@ -65,7 +56,7 @@ function Contactus() {
           <h2 className="text-lg font-extrabold">Socials</h2>
           <ul className="flex mt-3 space-x-4">
             <li className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
-              <a href="javascript:void(0)">
+              <a href=" #">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20px"
@@ -81,7 +72,7 @@ function Contactus() {
               </a>
             </li>
             <li className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
-              <a href="javascript:void(0)">
+              <a href=" #">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20px"
@@ -97,7 +88,7 @@ function Contactus() {
               </a>
             </li>
             <li className="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
-              <a href="javascript:void(0)">
+              <a href=" #">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20px"

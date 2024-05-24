@@ -26,7 +26,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Comming Soon
@@ -40,7 +40,7 @@ function Footer() {
           <ul className="space-y-5">
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Privacy Policy
@@ -48,7 +48,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Terms of Service
@@ -56,7 +56,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Refund Policy
@@ -70,7 +70,7 @@ function Footer() {
           <ul className="space-y-5">
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 FAQs
@@ -78,7 +78,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Comming Soon
@@ -86,7 +86,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href=" #"
                 className="text-gray-800 hover:text-black text-[15px]"
               >
                 Comming Soon
