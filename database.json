@@ -1,0 +1,53 @@
+[
+  project :  [
+    {
+      title: "Terrain Prince Moulay El Hassan, F.U.S., Rabat",
+      category: "Terrain de sport",
+      description:
+        "lorem ipsum dolsit amet, consectetur adipiscing elit loream ipsum dolor sit onsectetur adipiscing elit",
+      img: "/Terrains/1.jpg",
+    },
+    {
+      title: "Golf d'Amelkis, Marrakech",
+      category: "	Golfs et espaces verts",
+      description:
+        "lorem ipsum dolor sitsit amet, consectetur adipiscing elit loream ipsum dolor sit tetur adipiscing elit",
+      img: "/Terrains/4.jpg",
+    },
+    {
+      title: "Complexe sportif de Fès",
+      category: "Terrain de sport",
+      description:
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit loream ipsum dolor sit dipiscing elit",
+      img: "/Terrains/2.jpg",
+    },
+    {
+      title: "Royal Golf, El Jadida",
+      category: "Golfs et espaces verts",
+      description:
+        "lorem isit amet, consectetur adipiscing elit loream ipsum dolor sit it amet, consectetur adipiscing elit",
+      img: "/Terrains/6.jpg",
+    },
+    {
+      title: "Terrain El Abdi, El Jadida",
+      category: "Terrain de sport",
+      description:
+        "Votre partenaire en travaux publics lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      img: "/Terrains/3.jpg",
+    },
+    {
+      title: "Golf de Samanah, Marrakech",
+      category: "Golfs et espaces verts",
+      description:
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit loream ipsum dolor sit amet, consectetur adipiscing elit",
+      img: "/Terrains/5.jpg",
+    },
+    {
+      title: "Royal Golf Dar Es Salam, Rabat",
+      category: "Golfs et espaces verts",
+      description:
+        "lorem ipsum dolorsit amet, consectetur adipiscing elit loream ipsum dolor sit lit",
+      img: "/Terrains/77.jpg",
+    },
+  ]
+]
